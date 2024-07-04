@@ -1,2 +1,3 @@
 # QuantProject
-Algorithmic Trading Strateg
+Algorithmic Trading Strategy
+
